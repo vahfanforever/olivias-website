@@ -24,7 +24,7 @@ class OpeningPage extends React.Component {
       return (
           <div className="opening-page" onClick={this.handleClick}>
               <h1>Olivia Berry</h1>
-              <h2>18 PPG | 3 APG | 41.94 FG%
+              <h2>19.25 PPG | 3 APG | 38.57 FG%
               <span className="cursor">|</span>
               </h2>
               <img src={myImage} alt="Olivia" className="slide-in" onClick={this.handleImageClick}  style={{ cursor: 'pointer' }}/>
