@@ -66,12 +66,7 @@ h2 {
 .slide-in {
     position: relative;
     top: 325px;
-    /* adjust this value to control the amount of horizontal offset */
-    transition: left 1s ease;
-}
-
-.slide-in.active {
-    left: -590px;
+    left: -600px
 }
 
 img:hover {
